@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4270059781101660668}
   - component: {fileID: 2317089223801944229}
   - component: {fileID: 8135793014063283987}
+  - component: {fileID: 5891480127679852801}
   m_Layer: 0
   m_Name: Comida
   m_TagString: Untagged
@@ -97,3 +98,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
+--- !u!114 &5891480127679852801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2142928480599135452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7062890937540d46b491dd5aff65916, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
